@@ -1,3 +1,11 @@
+/*
+constantes.h
+------------
+
+Par mateo21, pour Le Site du Zéro (www.siteduzero.com)
+Rôle : définit des constantes pour tout le programme (taille de la fenêtre...)
+*/
+
 #ifndef DEF_CONSTANTES
 #define DEF_CONSTANTES
 
